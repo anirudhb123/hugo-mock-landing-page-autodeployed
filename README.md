@@ -1,5 +1,7 @@
 # hugo-mock-landing-page-autodeployed
 
+CIS 3500 HW2 Part II
+
 This repository hosts a mock landing page built with Hugo that is automatically deployed to GitHub Pages using GitHub Actions. The site can be found at https://anirudhb123.github.io/hugo-mock-landing-page-autodeployed/. 
 
 ## Workflow Description
