@@ -1,6 +1,6 @@
 # hugo-mock-landing-page-autodeployed
 
-This repository hosts a mock landing page built with Hugo that is automatically deployed to GitHub Pages using GitHub Actions. 
+This repository hosts a mock landing page built with Hugo that is automatically deployed to GitHub Pages using GitHub Actions. The site can be found at https://anirudhb123.github.io/hugo-mock-landing-page/. 
 
 ## Workflow Description
 
